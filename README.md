@@ -15,6 +15,3 @@ Turns out unchecking that setting isn't enough on its own — it just *allows* t
  I had to also add a bucket policy to actually grant public read access before the site worked. Once I did that, the site finally loaded.
 
 Still learning exactly how S3 permissions work under the hood, but this was a good first lesson in the difference between "allowing" public access vs actually "granting" it.
-
-## Next steps
-- Connect this to GitHub Actions so updates deploy automatically.
