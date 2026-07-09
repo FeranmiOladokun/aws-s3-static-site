@@ -1,3 +1,5 @@
+http://feranmis3website001.s3-website.eu-north-1.amazonaws.com
+
 # AWS S3 Static Website
 
 My first static website hosted on AWS S3, as part of my hands-on AWS learning journey 
